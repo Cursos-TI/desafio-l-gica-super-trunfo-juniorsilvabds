@@ -92,5 +92,5 @@ int main() {
         printf("Empate!\n");
     }
 
-    return 0;
+    
 }
